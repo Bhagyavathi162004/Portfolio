@@ -37,6 +37,7 @@ header {
     padding: 2rem;
     border-radius: 8px;
     margin-bottom: 1.5rem;
+    max-width: 95%;
 }
 
 header h1 {
