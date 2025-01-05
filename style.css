@@ -45,12 +45,12 @@ body {
     transform: 10px;
 
 
-top h1 {
+.top h1 {
     font-size: 2rem;
     margin: 0;
 }
 
-top p {
+.top p {
     margin: 1rem 0 0;
 }
 
