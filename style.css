@@ -18,7 +18,7 @@ body {
 }
 
 /* Main Container */
-section {
+.section {
     background-color: white;
     padding: 2rem;
     width: 90%;
@@ -30,7 +30,7 @@ section {
 }
 
 /* Header */
-header {
+.top {
 /*     background-color: #4CAF50; */
     background-color: black;
     color: white;
@@ -41,16 +41,16 @@ header {
     max-width: 95%;
 }
 
-header: hover {
+.top: hover {
     transform: 10px;
 
 
-header h1 {
+top h1 {
     font-size: 2rem;
     margin: 0;
 }
 
-header p {
+top p {
     margin: 1rem 0 0;
 }
 
