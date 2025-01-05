@@ -63,7 +63,8 @@ ul {
 }
 
 ul li {
-    background-color: #121212;
+    background-color: black;
+    color: white;
 /*     background-color: #e7f7e7; */
     margin-bottom: 0.5rem;
     padding: 0.75rem;
