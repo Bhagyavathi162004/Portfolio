@@ -31,7 +31,8 @@ section {
 
 /* Header */
 header {
-    background-color: #4CAF50;
+/*     background-color: #4CAF50; */
+    background-color: black;
     color: white;
     padding: 2rem;
     border-radius: 8px;
