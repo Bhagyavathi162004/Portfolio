@@ -19,15 +19,17 @@ body {
 
 /* Main Container */
 section {
+    display: block;
     background-color: white;
     padding: 2rem;
     width: 90%; 
-     width: 900px;
+/*      width: 900px; */
     max-width: 100%;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     text-align: center;
     margin-top: 30px; /* Adding margin to ensure there's space from the top */
+    justify-content: center;
 }
 
 /* Header */
