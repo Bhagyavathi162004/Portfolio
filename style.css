@@ -22,7 +22,7 @@ section {
     background-color: white;
     padding: 2rem;
 /*     width: 90%; */
- width: 600px;
+     width: 600px;
     max-width: 100%;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
@@ -33,6 +33,7 @@ section {
 /* Header */
 header {
 /*     background-color: #4CAF50; */
+    width: 80%
     background-color: black;
     color: white;
     padding: 2rem;
